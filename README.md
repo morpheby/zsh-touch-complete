@@ -5,6 +5,14 @@
 
 Wow, right?
 
+### What people say
+
+> Omg
+>
+> It’s sooooooo goooooooood
+>
+> — Artyom, CTO of Brolly
+
 ### Requirements
 
 * iTerm2 3.1 or higher - [Download](https://www.iterm2.com/downloads.html)

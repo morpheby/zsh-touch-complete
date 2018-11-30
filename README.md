@@ -8,9 +8,9 @@ Wow, right?
 ### Requirements
 
 * iTerm2 3.1 or higher - [Download](https://www.iterm2.com/downloads.html)
-* [zsh](http://www.zsh.org/) shell
+* Homebrew's [zsh](http://www.zsh.org/) shell (system may not work)
 
-**Into iterm2:** Go into `View -> Customize Tool Bar...` and drag & drop the `Fn` module
+**In iterm2:** Go into `View -> Customize Tool Bar...` and drag & drop the `Fn` module
 
 ### Installing plugin
 

@@ -21,7 +21,10 @@ _zsh_touchcomplete_async_init() {
 
 	# Initialize completer
 	fpath=(/usr/local/share/zsh-completions /etc/zsh/functions $fpath)
-	autoload -U /etc/zsh/functions/*(:t)
+	
+	if [[ -e /etc/zsh/functions/ ]]; then
+		autoload -U /etc/zsh/functions/*(:t)
+	fi
 	autoload -U compinit
 	compinit -i
 	

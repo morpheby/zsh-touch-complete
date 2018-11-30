@@ -1,6 +1,8 @@
 
 ## TouchBar autocomplete in zsh!
 
+![Showcase](https://d.pr/i/1jAY2W+)
+
 Wow, right?
 
 ### Requirements

@@ -65,7 +65,7 @@ _zsh_touchcomplete_async_pty_create() {
 	fi
 
 	# Run initialization scripts
-	zpty -w $ZSH_TOUCHCOMPLETE_ASYNC_PTY_NAME "source ${_TOUCHCOMPLETE_ROOT_SOURCE_DIR}/async_server.sh"
+	zpty -w $ZSH_TOUCHCOMPLETE_ASYNC_PTY_NAME "source \"${_TOUCHCOMPLETE_ROOT_SOURCE_DIR}/async_server.sh\""
 	zpty -w $ZSH_TOUCHCOMPLETE_ASYNC_PTY_NAME "_zsh_touchcomplete_async_init"
 	
 	# Wait for initialization

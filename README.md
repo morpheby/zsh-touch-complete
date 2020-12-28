@@ -5,6 +5,8 @@
 
 Wow, right?
 
+**NOTE:** *You may be asking looking at last commit date, is this even maintained? Yes. It just works so good that I haven't changed a single line of code since that time, even though there've been many releases of iTerm (3.4.3 as of this writing), and the latest macOS is now 11.1. Still works. I still use it ☺️*
+
 ### What people say
 
 > Omg
